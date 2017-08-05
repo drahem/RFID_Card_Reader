@@ -9,7 +9,7 @@ void setup()
   pinMode(7,INPUT);
   pinMode(13,OUTPUT);
   Serial.begin(9600);
-  Serial.println("welcome to fakka...");
+  Serial.println("welcome...");
 }
 void loop()
 {
